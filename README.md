@@ -24,7 +24,7 @@
 
   **Libraries & Frameworks**
   <br>
-  <img src="https://faculty.washington.edu/otoomet/machinelearning-py/numpy-and-pandas.html" title="NumPy" />
+  <img src="https://numpy.org/images/logo.svg" title="NumPy" />
   <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" />
   <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />
 
