@@ -6,11 +6,11 @@
 ---
 
 ### 🌟 About Me:
-- 🎓 **B.Tech Artificial Intelligence and Data Science** student at **Kumaraguru College of Technology** (2022-2026)[cite: 15, 16, 17].
-- 💻 Enthusiastic learner with a strong passion for **data analysis, machine learning, and deep learning**[cite: 11].
-- 🚀 Committed to gaining hands-on experience and contributing effectively to **innovative projects**[cite: 12, 13].
-- 🛠️ Actively seeking opportunities to apply and sharpen my **analytical and technical abilities**[cite: 12, 13].
-- 🌱 Currently exploring **AI, data engineering, and space science**[cite: 11, 47].
+- 🎓 **B.Tech Artificial Intelligence and Data Science** student at **Kumaraguru College of Technology** (2022-2026).
+- 💻 Enthusiastic learner with a strong passion for **data analysis, machine learning, and deep learning**.
+- 🚀 Committed to gaining hands-on experience and contributing effectively to **innovative projects**.
+- 🛠️ Actively seeking opportunities to apply and sharpen my **analytical and technical abilities**.
+- 🌱 Currently exploring **AI, data engineering, and space science**.
 
 ---
 
