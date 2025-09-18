@@ -39,7 +39,7 @@
 
 ### 💡 Fun Fact:
 - 🚀 I have a deep interest in **space science** and enjoy reading articles about **space exploration**.
-- 🏏 I'm a sports enthusiast, actively involved in **cricket, athletics, and other team games**.
+- 🏏 I'm a sports enthusiast, actively involved in **cricket, badminton, and other team games**.
 
 
 ---
