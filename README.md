@@ -24,7 +24,7 @@
 
   **Libraries & Frameworks**
   <br>
-  <img src="https://numpy.org/images/logo.svg" title="NumPy" />
+  <img src="https://seeklogo.com/vector-logo/398690/numpy" title="NumPy" />
   <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" />
   <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />
 
