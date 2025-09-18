@@ -24,7 +24,7 @@
 
   **Libraries & Frameworks**
   <br>
-  <img src="<svg xmlns="https://icon.icepanel.io/Technology/svg/NumPy.svg" title="NumPy" />
+  <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" title="NumPy" />
   <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" />
   <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />
 
