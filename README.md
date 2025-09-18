@@ -36,7 +36,7 @@
   
 ---
 
-### 💡 Fun Fact:
+### 💡 Interests:
 - 🚀 I have a deep interest in **space science** and enjoy reading articles about **space exploration**.
 - 🏏 I'm a sports enthusiast, actively involved in **cricket, badminton, and other team games**.
 
